@@ -22,7 +22,7 @@ Variables include:
 ## Methodology
 The analysis in the notebook follows these steps:
 
-1. Exploratory Data Analysis using scatterplots
+1. Exploratory data analysis using scatterplots
 2. Simple Linear Regression for each story feature
 3. Visualization of regression lines
 4. Residual analysis
