@@ -11,13 +11,13 @@ Using simple linear regression, each story feature is tested individually to eva
 The dataset (data_full_story.csv) contains real comments and posts from the ChangeMyView subreddit.
 
 Variables include:
-- story_score: Overall strength of the story (0–1 scale)
-- agency_score: Degree of character agency (1–5 scale)
-- event_score: Quality of event sequencing (1–5 scale)
-- world_score: Degree of world building (1–5 scale)
-- curiosity_score: Level of curiosity created (1–5 scale)
-- surprise_score: Presence of surprising elements (1–5 scale)
-- suspense_score: Level of suspense (1–5 scale)
+- story_score: overall strength of the story (0–1 scale)
+- agency_score: degree of character agency (1–5 scale)
+- event_score: quality of event sequencing (1–5 scale)
+- world_score: degree of world building (1–5 scale)
+- curiosity_score: level of curiosity created (1–5 scale)
+- surprise_score: presence of surprising elements (1–5 scale)
+- suspense_score: level of suspense (1–5 scale)
 
 ## Methodology
 The analysis in the notebook follows these steps:
