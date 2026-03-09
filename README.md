@@ -1,4 +1,4 @@
-# Analyzing Data Assignment 2: Story Feature Analysis using Simple Linear Regression
+# Analyzing Data Assignment 2: Story feature analysis using Simple Linear Regression
 Luiza Teodora Filip s5183685
 
 ## Description
@@ -29,5 +29,5 @@ The analysis in the notebook follows these steps:
 5. Normality testing using the Shapiro-Wilk test
 6. Comparison of model performance using the R² score
 
-## Results summary
+## Results 
 Overall, the results suggest that event sequencing and agency are the most influential storytelling features in predicting story strength.
